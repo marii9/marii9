@@ -40,8 +40,7 @@ This Project was a collaborative effort to make a quiz game that uses technologi
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]:
-<!--
+
 
 
 
