@@ -27,8 +27,10 @@ This Project was a collaborative effort to make a quiz game that uses technologi
     This application is soley using Java, HTML and CSS, it was a collaborative project that takes your zodiac sign and find a particular song for whatever mood your zodiac is supposed to have for that day.
   - [AstroMusic(https://github.com/marii9/Astromusic)
   
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Weather App</b>
+   This Application was made using HTML And CSS. in this project i made a web application were you can type a city in any state in the US and get the weather for that time. I get the weather statistics from drawing in a api.
+  - [Weather app)](https://github.com/marii9/weather-app
+)
 
 
 
@@ -38,7 +40,7 @@ This Project was a collaborative effort to make a quiz game that uses technologi
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]:[ https://linkedin.com/in/](https://linkedin.com/in/shemar-boyd-a23388150/)
 <!--
 
 
