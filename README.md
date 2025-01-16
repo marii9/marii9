@@ -23,13 +23,10 @@ This Project was a collaborative effort to make a quiz game that uses technologi
 - <b>PWA( Progressive Web Application</b>
   - [Explanation and demonstration on how to use PWA](https://github.com/marii99/pwa
 )
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>C# (Astromusic)</b>
+    This application is soley using Java, HTML and CSS, it was a collaborative project that takes your zodiac sign and find a particular song for whatever mood your zodiac is supposed to have for that day.
+  - [AstroMusic(https://github.com/marii9/Astromusic)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
