@@ -23,7 +23,7 @@ This Project was a collaborative effort to make a quiz game that uses technologi
 - <b>PWA( Progressive Web Application</b>
   - [Explanation and demonstration on how to use PWA](https://github.com/marii99/pwa
 )
-- <b>C# (Astromusic)</b>
+- <b>Java (Astromusic)</b>
     This application is soley using Java, HTML and CSS, it was a collaborative project that takes your zodiac sign and find a particular song for whatever mood your zodiac is supposed to have for that day.
   - [AstroMusic(https://github.com/marii9/Astromusic)
   
