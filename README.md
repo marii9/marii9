@@ -40,7 +40,7 @@ This Project was a collaborative effort to make a quiz game that uses technologi
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]:[ https://linkedin.com/in/shemar-boyd-a23388150/
+[linkedin]:[ https://linkedin.com/in/
 <!--
 
 
