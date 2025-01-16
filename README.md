@@ -15,13 +15,14 @@ https://shemar-boyd.vercel.app/
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Gamer Gauntlet(AlgoExpert)</b>
-This Projecdt was a collaborative effort to make a quiz game that uses technologies like React.
+This Project was a collaborative effort to make a quiz game that uses technologies like React.
   - [Practicing Using React, Java, Mongo](https://github.com/marii9/gamers-gauntlet)
 - <b>Full Stack Web App (MySql, NodeJS, , Social network platform i created and show a demonstration on how to install on your local computer.)</b>
   - [Social Network](https://github.com/marii9/social-network
 ) <b><i>)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>PWA( Progressive Web Application</b>
+  - [Explanation and demonstration on how to use PWA](https://github.com/marii99/pwa
+)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
