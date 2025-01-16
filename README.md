@@ -17,7 +17,7 @@ https://shemar-boyd.vercel.app/
 - <b>Gamer Gauntlet(AlgoExpert)</b>
   - [Practicing Using React, Java, Mongo](https://github.com/marii9/Gamer-Gauntlet)
 - <b>Full Stack Web App (MySql, NodeJS, , Social network platform i created and show a demonstration on how to install on your local computer.)</b>
-  - [Image Analysis Middleware](https://github.com/marii9/social-network
+  - [Social Network](https://github.com/marii9/social-network
 ) <b><i>)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
