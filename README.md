@@ -15,7 +15,8 @@ https://shemar-boyd.vercel.app/
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Gamer Gauntlet(AlgoExpert)</b>
-  - [Practicing Using React, Java, Mongo](https://github.com/marii9/Gamer-Gauntlet)
+This Projecdt was a collaborative effort to make a quiz game that uses technologies like React.
+  - [Practicing Using React, Java, Mongo](https://github.com/marii9/gamers-gauntlet)
 - <b>Full Stack Web App (MySql, NodeJS, , Social network platform i created and show a demonstration on how to install on your local computer.)</b>
   - [Social Network](https://github.com/marii9/social-network
 ) <b><i>)</b></i>
