@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/marii9/osticket-prereqqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marii9/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/marii99/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/marii9/configure-ad)
 
 
 <h2>🤳Also check at my Software developer portfolio! :</h2>
